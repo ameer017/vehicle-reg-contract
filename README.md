@@ -1,13 +1,9 @@
-# Sample Hardhat Project
+# Vehicle Registration Dapp
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+This project demonstrates a basic Hardhat use case to handle the registration and transfer of vehicle ownership onchain, deploy and verified on the base test network.
 
-Try running some of the following tasks:
+Verified contract link 👇🏽:
 
 ```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.ts
+https://sepolia.basescan.org/address/0x1B57Df4D39cd822dBbd1598d422B1B9a693a6189
 ```
